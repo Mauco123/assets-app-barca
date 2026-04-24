@@ -7,4 +7,15 @@
     "edad": 16,
     "imagenUrl": "https://raw.githubusercontent.com/Mauco123/assets-app-barca/main/jugador.jpg"
   }
+
+  {
+      "nombre": "Messi",
+      "dorsal": 56,
+      "posicion": "Central",
+      "nacionalidad": "Argentino",
+      "edad": 45,
+      "imagenUrl": "https://raw.githubusercontent.com/Mauco123/assets-app-barca/main/messi.jpg"
+    }
+
+
 ]
